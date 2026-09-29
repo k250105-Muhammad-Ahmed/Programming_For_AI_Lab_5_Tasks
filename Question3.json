@@ -1,0 +1,9 @@
+[
+    {
+        "model_name": "Astra",
+        "accuracy": "89",
+        "precision": "89",
+        "recall": "89",
+        "f1_score": "89"
+    }
+]

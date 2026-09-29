@@ -1,0 +1,182 @@
+[
+    {
+        "id": "44567857",
+        "title": "LLM Inevitabilism",
+        "author": "SwoopsFromAbove",
+        "points": 1773,
+        "num_comments": 1628,
+        "created_at": "2025-07-15T04:35:35Z",
+        "url": "https://tomrenner.com/posts/llm-inevitabilism/"
+    },
+    {
+        "id": "41523070",
+        "title": "Learning to Reason with LLMs",
+        "author": "fofoz",
+        "points": 1654,
+        "num_comments": 1261,
+        "created_at": "2024-09-12T17:08:46Z",
+        "url": "https://openai.com/index/learning-to-reason-with-llms/"
+    },
+    {
+        "id": "38505211",
+        "title": "LLM Visualization",
+        "author": "plibither8",
+        "points": 1592,
+        "num_comments": 131,
+        "created_at": "2023-12-03T06:08:29Z",
+        "url": "https://bbycroft.net/llm"
+    },
+    {
+        "id": "49161518",
+        "title": "LLMs reward expertise",
+        "author": "MaxMussio",
+        "points": 1416,
+        "num_comments": 573,
+        "created_at": "2026-08-03T21:13:53Z",
+        "url": "https://www.seangoedecke.com/llms-reward-expertise/"
+    },
+    {
+        "id": "42823568",
+        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL",
+        "author": "gradus_ad",
+        "points": 1351,
+        "num_comments": 1056,
+        "created_at": "2025-01-25T18:39:49Z",
+        "url": "https://arxiv.org/abs/2501.12948"
+    },
+    {
+        "id": "45529587",
+        "title": "A small number of samples can poison LLMs of any size",
+        "author": "meetpateltech",
+        "points": 1202,
+        "num_comments": 439,
+        "created_at": "2025-10-09T16:04:04Z",
+        "url": "https://www.anthropic.com/research/small-samples-poison"
+    },
+    {
+        "id": "48434312",
+        "title": "LLMs are eroding my software engineering career and I don't know what to do",
+        "author": "poisonfountain",
+        "points": 1151,
+        "num_comments": 1074,
+        "created_at": "2026-06-07T12:49:29Z",
+        "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/"
+    },
+    {
+        "id": "43905942",
+        "title": "Show HN: Clippy \u2013 90s UI for local LLMs",
+        "author": "felixrieseberg",
+        "points": 1122,
+        "num_comments": 275,
+        "created_at": "2025-05-06T15:02:22Z",
+        "url": "https://felixrieseberg.github.io/clippy/"
+    },
+    {
+        "id": "38464057",
+        "title": "Llamafile lets you distribute and run LLMs with a single file",
+        "author": "tfinch",
+        "points": 1075,
+        "num_comments": 288,
+        "created_at": "2023-11-29T19:29:49Z",
+        "url": "https://github.com/Mozilla-Ocho/llamafile"
+    },
+    {
+        "id": "39973467",
+        "title": "Llm.c \u2013 LLM training in simple, pure C/CUDA",
+        "author": "tosh",
+        "points": 1050,
+        "num_comments": 168,
+        "created_at": "2024-04-08T20:38:49Z",
+        "url": "https://github.com/karpathy/llm.c"
+    },
+    {
+        "id": "39535800",
+        "title": "The Era of 1-bit LLMs: ternary parameters for cost-effective computing",
+        "author": "fgfm",
+        "points": 1040,
+        "num_comments": 447,
+        "created_at": "2024-02-28T09:28:43Z",
+        "url": "https://arxiv.org/abs/2402.17764"
+    },
+    {
+        "id": "42560558",
+        "title": "Things we learned about LLMs in 2024",
+        "author": "simonw",
+        "points": 984,
+        "num_comments": 582,
+        "created_at": "2024-12-31T18:11:06Z",
+        "url": "https://simonwillison.net/2024/Dec/31/llms-in-2024/"
+    },
+    {
+        "id": "38507672",
+        "title": "LLM Visualization",
+        "author": "jonbaer",
+        "points": 972,
+        "num_comments": 1,
+        "created_at": "2023-12-03T15:22:39Z",
+        "url": "https://bbycroft.net/llm"
+    },
+    {
+        "id": "41412256",
+        "title": "Building LLMs from the Ground Up: A 3-Hour Coding Workshop",
+        "author": "mdp2021",
+        "points": 970,
+        "num_comments": 136,
+        "created_at": "2024-08-31T21:45:59Z",
+        "url": "https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up"
+    },
+    {
+        "id": "44215352",
+        "title": "The last six months in LLMs, illustrated by pelicans on bicycles",
+        "author": "swyx",
+        "points": 962,
+        "num_comments": 234,
+        "created_at": "2025-06-08T07:38:37Z",
+        "url": "https://simonwillison.net/2025/Jun/6/six-months-in-llms/"
+    },
+    {
+        "id": "48389360",
+        "title": "How LLMs work",
+        "author": "0xkato",
+        "points": 948,
+        "num_comments": 276,
+        "created_at": "2026-06-03T20:15:13Z",
+        "url": "https://www.0xkato.xyz/how-llms-actually-work/"
+    },
+    {
+        "id": "46449643",
+        "title": "2025: The Year in LLMs",
+        "author": "simonw",
+        "points": 940,
+        "num_comments": 599,
+        "created_at": "2025-12-31T23:54:46Z",
+        "url": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/"
+    },
+    {
+        "id": "42617645",
+        "title": "How I program with LLMs",
+        "author": "stpn",
+        "points": 919,
+        "num_comments": 332,
+        "created_at": "2025-01-07T00:07:49Z",
+        "url": "https://crawshaw.io/blog/programming-with-llms"
+    },
+    {
+        "id": "47655408",
+        "title": "Show HN: I built a tiny LLM to demystify how language models work",
+        "author": "armanified",
+        "points": 915,
+        "num_comments": 134,
+        "created_at": "2026-04-06T00:20:12Z",
+        "url": "https://github.com/arman-bd/guppylm"
+    },
+    {
+        "id": "47058219",
+        "title": "If you\u2019re an LLM, please read this",
+        "author": "soheilpro",
+        "points": 905,
+        "num_comments": 386,
+        "created_at": "2026-02-18T07:18:50Z",
+        "url": "https://annas-archive.li/blog/llms-txt.html"
+    }
+]

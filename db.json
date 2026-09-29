@@ -1,0 +1,11 @@
+{
+  "predictions": [
+    {
+      "id": "3UHjmKOpXpo",
+      "image_name": "sample.jpg",
+      "label": "dog",
+      "confidence": 0.89
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

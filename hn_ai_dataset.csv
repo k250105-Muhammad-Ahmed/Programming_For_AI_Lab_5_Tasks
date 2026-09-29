@@ -1,0 +1,21 @@
+id,title,author,points,num_comments,created_at,url
+44567857,LLM Inevitabilism,SwoopsFromAbove,1773,1628,2025-07-15T04:35:35Z,https://tomrenner.com/posts/llm-inevitabilism/
+41523070,Learning to Reason with LLMs,fofoz,1654,1261,2024-09-12T17:08:46Z,https://openai.com/index/learning-to-reason-with-llms/
+38505211,LLM Visualization,plibither8,1592,131,2023-12-03T06:08:29Z,https://bbycroft.net/llm
+49161518,LLMs reward expertise,MaxMussio,1416,573,2026-08-03T21:13:53Z,https://www.seangoedecke.com/llms-reward-expertise/
+42823568,DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL,gradus_ad,1351,1056,2025-01-25T18:39:49Z,https://arxiv.org/abs/2501.12948
+45529587,A small number of samples can poison LLMs of any size,meetpateltech,1202,439,2025-10-09T16:04:04Z,https://www.anthropic.com/research/small-samples-poison
+48434312,LLMs are eroding my software engineering career and I don't know what to do,poisonfountain,1151,1074,2026-06-07T12:49:29Z,https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/
+43905942,Show HN: Clippy – 90s UI for local LLMs,felixrieseberg,1122,275,2025-05-06T15:02:22Z,https://felixrieseberg.github.io/clippy/
+38464057,Llamafile lets you distribute and run LLMs with a single file,tfinch,1075,288,2023-11-29T19:29:49Z,https://github.com/Mozilla-Ocho/llamafile
+39973467,"Llm.c – LLM training in simple, pure C/CUDA",tosh,1050,168,2024-04-08T20:38:49Z,https://github.com/karpathy/llm.c
+39535800,The Era of 1-bit LLMs: ternary parameters for cost-effective computing,fgfm,1040,447,2024-02-28T09:28:43Z,https://arxiv.org/abs/2402.17764
+42560558,Things we learned about LLMs in 2024,simonw,984,582,2024-12-31T18:11:06Z,https://simonwillison.net/2024/Dec/31/llms-in-2024/
+38507672,LLM Visualization,jonbaer,972,1,2023-12-03T15:22:39Z,https://bbycroft.net/llm
+41412256,Building LLMs from the Ground Up: A 3-Hour Coding Workshop,mdp2021,970,136,2024-08-31T21:45:59Z,https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up
+44215352,"The last six months in LLMs, illustrated by pelicans on bicycles",swyx,962,234,2025-06-08T07:38:37Z,https://simonwillison.net/2025/Jun/6/six-months-in-llms/
+48389360,How LLMs work,0xkato,948,276,2026-06-03T20:15:13Z,https://www.0xkato.xyz/how-llms-actually-work/
+46449643,2025: The Year in LLMs,simonw,940,599,2025-12-31T23:54:46Z,https://simonwillison.net/2025/Dec/31/the-year-in-llms/
+42617645,How I program with LLMs,stpn,919,332,2025-01-07T00:07:49Z,https://crawshaw.io/blog/programming-with-llms
+47655408,Show HN: I built a tiny LLM to demystify how language models work,armanified,915,134,2026-04-06T00:20:12Z,https://github.com/arman-bd/guppylm
+47058219,"If you’re an LLM, please read this",soheilpro,905,386,2026-02-18T07:18:50Z,https://annas-archive.li/blog/llms-txt.html
